@@ -1,0 +1,17 @@
+{
+    "C_Cpp.intelliSenseEngine": "default",
+    "idf.espIdfPathWin": "C:\\Users\\bruno.ribeiro\\esp\\esp-idf",
+    "idf.pythonInstallPath": "C:\\Users\\bruno.ribeiro\\.espressif\\tools\\idf-python\\3.11.2\\python.exe",
+    "idf.openOcdConfigs": [
+        "board/esp32c3-bridge.cfg"
+    ],
+    "idf.portWin": "COM65",
+    "idf.toolsPathWin": "C:\\Users\\bruno.ribeiro\\.espressif",
+    "idf.flashType": "UART",
+    "idf.customExtraVars": {
+        "OPENOCD_SCRIPTS": "C:\\Users\\bruno.ribeiro\\.espressif\\tools\\openocd-esp32\\v0.12.0-esp32-20230921/openocd-esp32/share/openocd/scripts",
+        "IDF_CCACHE_ENABLE": "1",
+        "ESP_ROM_ELF_DIR": "C:\\Users\\bruno.ribeiro\\.espressif\\tools\\esp-rom-elfs\\20230320/",
+        "IDF_TARGET": "esp32c3"
+    }
+}
